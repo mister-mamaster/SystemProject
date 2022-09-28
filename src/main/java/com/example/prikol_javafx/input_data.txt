@@ -1,0 +1,14 @@
+add courier 45 45 bike
+add courier 25 25 bike
+add order 14 14
+add order 31 16
+add order 20 20
+add order 34 34
+add order 12 2
+add order 6 7
+add order 40 5
+add order 40 2
+add order 40 40
+add order 25 30
+add order 12 10
+add order 3 20
